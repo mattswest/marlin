@@ -1,1 +1,1 @@
-Fork of Marlin for the Ender 5 with MKS Robin E3D, TMC2209 steppers, and BMG extruder
+Fork of Marlin for the Ender 5 with Creality v4.2.7 board and BMG extruder
